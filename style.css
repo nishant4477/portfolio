@@ -1,0 +1,139 @@
+body{
+    /* background-color: #E4F9F5; */
+    text-align: center;
+    margin: 0px;
+    
+}
+.intro{
+    /* width: 100%; */
+    background-color: #E4F9F5;
+    margin: 0px;
+}
+hr{
+    width: 10%;
+    border-style: none;
+    border-top-style: dotted;
+    color: grey;
+    width: 7%;
+    border-width: 10px;
+    margin: 70px auto;
+    
+    
+}
+.name{
+    /* position: absolute; */
+    /* top: 120px; */
+    /* right: 620px; */
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    margin: auto 0px auto 0px;
+
+    line-height: 2;
+
+    
+}
+.p{
+    /* position: absolute; */
+    /* top: 240px; */
+    /* right: 700px; */
+    color: #66BFBF;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+
+}
+.mountain{
+    /* position: absolute; */
+    
+    width: 550px;
+    
+}
+.topcloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.bottomcloud{
+    position: absolute;
+    top: 330px;
+    left: 350px;
+}
+.myphot{
+    width: 30%;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+h2{
+    font-size: 50px;
+}
+.myself{
+    font-size: 23px;
+}
+.middle-container{
+    margin: 0px 200px;
+}
+.skill{
+     
+    width: 15%;
+    position: absolute;
+    top: 1600px;
+    left:500px;
+}
+.cpp{
+    width: 25%;
+    float: right;
+    margin-left: 50;
+}
+.a{
+    margin-bottom: 200px;
+    margin-top: 100px;
+    position: relative;
+    left: 100px;
+    top: 60px;
+}
+.web{
+    margin-right: 50px;
+    width: 30%;
+    float: left;
+    border-radius: 100%;
+}
+.hel{
+    width: 20%;
+
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.skill-row{
+    margin: 150px;
+    text-align: left;
+    line-height: 2;
+}
+.intro1{
+    padding-top: 70px;
+}
+.cbse{
+    width: 15%;
+    float: left;
+    margin-right: 40px;
+}
+.jee{
+    width: 20%;
+    float: right;
+}
+.Achievement1{
+    margin: 150px;
+    text-align: left;
+    line-height: 2;
+}
+.bottom-container{
+    background-color: #64CCC5;
+    height: 80px;
+    text-align: left;
+}
+.footer-link{
+    margin: 30px;
+    position: relative;
+    top: 10px;
+}
